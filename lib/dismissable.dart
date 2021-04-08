@@ -1,0 +1,3 @@
+mixin Dismissable {
+  void dismiss();
+}
